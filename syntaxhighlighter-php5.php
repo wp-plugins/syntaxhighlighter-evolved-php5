@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: SyntaxHighlighter Evolved: PHP5
-Plugin URI: http://www.fanninger.at/
+Plugin URI: http://www.sandrobilbeisi.org/wp/web-development/syntaxhighlighter-evolved-php5/
 Description: Adds support for the PHP5 language to the SyntaxHighlighter Evolved plugin.
 Author: Sandro Bilbeisi
 Version: 1.4.1
