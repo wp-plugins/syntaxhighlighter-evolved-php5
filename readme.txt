@@ -1,5 +1,5 @@
 === SyntaxHighlighter Evolved PHP5 ===
-Contributors: sandrobilbeisi, apollox2
+Contributors: sandrobilbeisi
 Donate link: http://www.viper007bond.com/wordpress-plugins/syntaxhighlighter/donate/
 Tags: syntax, hightligher, applescript, code, CSS, html, php, sourcecode
 Requires at least: 2.7
