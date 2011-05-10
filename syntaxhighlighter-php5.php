@@ -16,7 +16,7 @@ add_filter( 'syntaxhighlighter_brushes', 'syntaxhighlighter_php5_addlang' );
 
 // Register the brush file with WordPress
 function syntaxhighlighter_php5_regscript() {
-	wp_register_script( 'syntaxhighlighter-brush-php5', plugins_url('syntaxhighlighter-evolved-php5/scripts/shBrushPhp5.js'), array('syntaxhighlighter-core'), '1.4.0');
+	wp_register_script( 'syntaxhighlighter-brush-php5', plugins_url('syntaxhighlighter-evolved-php5/scripts/shBrushPhp5.js'), array('syntaxhighlighter-core'), '1.4.1');
 	/*wp_register_style(  'syntaxhighlighter-theme-php5', plugins_url('syntaxhighlighter-evolved-php5/styles/shThemePHP5.css'), array('syntaxhighlighter-core'), '1.4.0');*/
 }
 
