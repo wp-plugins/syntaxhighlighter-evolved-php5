@@ -4,7 +4,7 @@ Plugin Name: SyntaxHighlighter Evolved: PHP5
 Plugin URI: http://www.sandrobilbeisi.org/wp/web-development/syntaxhighlighter-evolved-php5/
 Description: Adds support for the PHP5 language to the SyntaxHighlighter Evolved plugin.
 Author: Sandro Bilbeisi
-Version: 1.4.1
+Version: 1.4.2
 Author URI: http://www.sandrobilbeisi.org/
 License: GPLv2
 based on the new PHP brush by David Chambers : http://davidchambersdesign.com/php-brush-for-syntaxhighlighter/

@@ -4,7 +4,7 @@ Donate link: http://www.viper007bond.com/wordpress-plugins/syntaxhighlighter/don
 Tags: syntax, hightligher, php5, code, CSS, html, php, sourcecode
 Requires at least: 2.7
 Tested up to: 3.1.2
-Stable tag: 1.4.1
+Stable tag: 1.4.2
 
 Adds support for the PHP5 language to the SyntaxHighlighter Evolved plugin using the [sourcecode language="php5"] tag and the[php5] shortcode.
 
