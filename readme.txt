@@ -1,12 +1,12 @@
 === SyntaxHighlighter Evolved PHP5 ===
 Contributors: sandrobilbeisi
 Donate link: http://www.viper007bond.com/wordpress-plugins/syntaxhighlighter/donate/
-Tags: syntax, hightligher, php5, code, CSS, html, php, sourcecode
+Tags: syntax, highlighter, php5, code, CSS, html, php, sourcecode
 Requires at least: 2.7
-Tested up to: 3.1.2
-Stable tag: 1.4.2
+Tested up to: 3.2.1
+Stable tag: 1.4.3
 
-Adds support for the PHP5 language to the SyntaxHighlighter Evolved plugin using the [sourcecode language="php5"] tag and the[php5] shortcode.
+Adds support for the PHP5 language to the SyntaxHighlighter Evolved plugin using the [sourcecode language="php5"] tag and [php5] shortcode.
 
 == Description ==
 
@@ -73,6 +73,10 @@ Make sure your theme's `footer.php` file has `<?php wp_footer(); ?>` somewhere i
 1. This is a sample image of the plugin in action as applied to PHP5 code.
 
 == Upgrade Notice ==
+
+= 1.4.3 = inessential bugfix.
+
+= 1.4.2 = minor fix in documentation.
 
 = 1.4.1 = This is the first peer-reviewed and published version.
 
